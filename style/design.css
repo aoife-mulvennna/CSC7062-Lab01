@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.mycontent {
+    margin: 0 auto;
+    width: 760px;
+}
+
+.topimg {
+    width: 100%;
+    background-color: #2A6495;
+}
+
+
+.navbar {
+    background-color: rgb(214, 210, 210);
+   
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.ula {
+    margin: 0;
+    padding: 0;
+
+}
+
+.lia{
+    display: inline-block;
+
+    border: thin black solid;
+    padding: 5px ;
+    width: 10%;
+    text-align: left;
+}
+
+
+.navbar .aa {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar.aa:hover {
+   color:white;
+    padding: 5px;
+    width: 10%;
+}
+
+.lia:hover {
+    width: 10%;
+    background-color: rgb(121, 117, 117);
+    padding: 5px ;
+    width: 10%;
+
+}
+
+.thinkimg{
+    width:100%;
+}
